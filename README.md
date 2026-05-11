@@ -120,10 +120,10 @@ jupyter notebook
 ## 🗺️ Roadmap
 
 - [x] Configuración del repositorio y entorno
-- [ ] Descarga inicial de datos desde NASA Exoplanet Archive
-- [ ] Análisis exploratorio de datos (EDA)
-- [ ] Limpieza y preparación de datos
-- [ ] Ingeniería de features
+- [x] Descarga inicial de datos desde NASA Exoplanet Archive
+- [x] Análisis exploratorio de datos (EDA)
+- [x] Limpieza y preparación de datos
+- [x] Ingeniería de features
 - [ ] Entrenamiento de modelos baseline
 - [ ] Optimización y evaluación de modelos
 - [ ] Visualizaciones finales y dashboard
